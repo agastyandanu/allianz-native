@@ -1,0 +1,59 @@
+
+https://www.allianz.co.id/produk/asuransi-jiwa/smartLink-new-flexi-account
+
+http://allianzpadang.blogspot.com/2013/09/contact.html
+
+
+
+kategori produk
+
+asuransi jiwa
+	SmartLink New Flexi Account Plus
+	SmartLink Flexi Account Plus
+	SmartLink Maxi Fund Plus
+	Taproku
+
+Asuransi Kesehatan
+	SmartMed Premier
+	SmartHealth Maxi Violet
+	Allisya Care
+	CI100 Rider 
+	Allisya Hospital and Surgical Care
+	Hospital and Surgical Care
+
+Asuransi Umum
+	Asuransi Allianz Mobilku
+	Asuransi Kartu Proteksiku
+	Asuransi Dana Kesehatanku
+	Asuransi Perjalanan
+	Asuransi Rumahku Plus
+
+Asuransi Kumpulan
+	Allianz Global Benefits
+	SmartPension
+	Smart Health
+	Smart Protection
+	Payung Keluarga
+	Smart Finance
+
+Asuransi Syariah
+	Allianz Tasbih
+	Allisya Protection
+	Allisya Maxi Fund Plus
+	Allisya Invest Plus
+	Allisya Benefit Account
+
+Asuransi Jiwa Bank
+	HSBC
+	SCB
+	BTPN
+
+
+
+admin (admin_id, admin_nama, admin_username,
+admin_email, admin_password, admin_foto)
+
+
+
+user (id, nama, username, email, nomor telepon, alamat, password, foto)
+
